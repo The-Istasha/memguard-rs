@@ -13,7 +13,9 @@ responsibly.
 
 **Do not open a public GitHub issue.**
 
-Instead, email **67969809+The-Istasha@users.noreply.github.com** with:
+A replacement private reporting contact has not yet been published.
+Do not disclose vulnerability details publicly. Once a private reporting
+channel is available, include:
 
 1. A description of the vulnerability
 2. Steps to reproduce (proof of concept, if possible)
@@ -37,7 +39,7 @@ considered security-relevant:
 
 ## Disclosure timeline
 
-1. **Day 0**: Vulnerability reported via email
+1. **Day 0**: Vulnerability reported through a private channel
 2. **Day 1–2**: Acknowledgment and triage
 3. **Day 3–7**: Fix developed, tested, and validated
 4. **Day 7–14**: Coordinated disclosure via GitHub Security Advisory
